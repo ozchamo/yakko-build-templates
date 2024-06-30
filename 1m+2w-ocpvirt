@@ -1,0 +1,7 @@
+CLUSTERNAME=ocpvrit
+CLUSTERDOMAIN=localdomain
+MASTERNODECOUNT=1
+WORKERNODECOUNT=2
+MASTERRAMSIZE=24000
+WORKERRAMSIZE=12000
+CLUSTERPOSTINSTALL=https://raw.githubusercontent.com/ozchamo/cluster-post-installers-for-yakko/main/ocpcnv-nfs-csi-install/ocpcnv-nfs-csi-install.sh
