@@ -1,4 +1,4 @@
-This repository contains simple tempaltes for automatic YAKKO builds of OpenShift clusters.
+This repository contains simple templates for automatic YAKKO builds of OpenShift clusters.
 
 For more info: 
 - visit [YAKKO](https://github.com/ozchamo/YAKKO)
