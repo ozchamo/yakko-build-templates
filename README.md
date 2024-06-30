@@ -13,5 +13,5 @@ This repository contains simple templates for automatic YAKKO builds of OpenShif
 - 1m+2w-ocpvirt - builds a cluster with 1 master and 2 workers and installs OpenShift Virtualization using NFS oon the yakko host as 'ocpvirt.localdomain'
 - 3m+0w - builds a compact cluster with 3 masters and no workers as 'compactcluster.localdomain'
 
-NOTE!**
+**NOTE:**
 These cluster shapes are not restrictive. You can add and delete worker nodes as you see fit.
